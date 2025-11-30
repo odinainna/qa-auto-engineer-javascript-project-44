@@ -8,3 +8,8 @@
 3. Losing: 'yes' is wrong answer ;(. Correct answer was 'no'. Let's try again, [player`s name]!'
 
 
+## How to play 'Calc game'
+1. npx brain-calc (launching the game)
+2. Victory: 'Correct! Congratulations, [player`s name]!'
+3. Losing: 'It is wrong answer ;(. Correct answer was [correct answer]. Let`s try again, [player`s name].
+
