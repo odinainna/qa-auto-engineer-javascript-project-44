@@ -17,3 +17,9 @@
 1. npx brain-gcd (launching the game)
 2. Victory: 'Correct! Congratulations, [player`s name]!'
 3. Losing: '[incorrect number] is wrong answer ;(. Correct answer was [correct answer]. Let`s try again, [player`s name]!
+
+
+## How to play Progression game
+1. npx brain-progression (launching the game)
+2. Victory: 'Correct! Congratulations, [player`s game]!'
+3. Losing: '[incorrect answer] is wrong answer ;(. Correct answer was [correct answer]. Let`s try again, [player`s name]!
